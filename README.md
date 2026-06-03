@@ -1,6 +1,6 @@
 # 🚀 Programming Practice Repository
 
-A structured collection of my **C, C++ and Java programming practice** focused on improving **DSA, problem-solving skills, and competitive coding** for placements.
+A structured collection of my **C, C++ and Java programming practice** focused on improving **DSA, problem-solving skills, and competitive coding**.
 
 ---
 
